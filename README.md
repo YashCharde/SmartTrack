@@ -59,7 +59,7 @@ SmartTrack follows a **layered, loosely coupled architecture** to ensure **maint
 ## 🚀 Quick Deployment Guide
 1️⃣ Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/SmartTrack.git
+   git clone https://github.com/YashCharde/SmartTrack.git
    ```
 2️⃣ Navigate to the project directory:  
    ```sh
